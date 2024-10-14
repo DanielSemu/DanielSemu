@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Semu</h1>
 <h3 align="center">A passionate FullStack developer,</h3>
-https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fprogrammer-animation-download-in-lottie-json-gif-static-svg-file-formats--web-developer-programming-code-online-meeting-freelancer-website-development-animations-3645911.gif&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&docid=wPNuSPiD_cKq-M&tbnid=ed-EOjoD8Ag27M&vet=12ahUKEwjMzvLcno2JAxUURaQEHYW1LtIQM3oECBoQAA..i&w=648&h=382&hcb=2&ved=2ahUKEwjMzvLcno2JAxUURaQEHYW1LtIQM3oECBoQAA
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo07ToL1YzKPkPvqZ8QyH0qbFB0QhG6cRy8uYgaedl3Lqfep2i9UUz7BeFGTCivImSBEM&amp;usqp=CAU">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielsemu" alt="danielsemu" /></a> </p>
@@ -17,7 +17,7 @@ https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcdn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/danielsemu/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo07ToL1YzKPkPvqZ8QyH0qbFB0QhG6cRy8uYgaedl3Lqfep2i9UUz7BeFGTCivImSBEM&usqp=CAU)" alt="https://www.linkedin.com/in/daniel-semu-325579272/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danielsemu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-semu-325579272/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

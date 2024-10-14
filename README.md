@@ -1,6 +1,6 @@
 ### <div width="100%" align="center"><a href="#"><img src="https://github.com/Benawi/Benawi/assets/21217148/de823737-5f7f-4de8-b62e-3fe88c238eab"/></a></div> 
 ###[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Hi+%2C+I'm+Daniel+Semu)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=I+am+a+full-stack+developer+passionate+about+building+scalable+web+applications%2C+delivering+seamless+user+experiences%2C+and+creating+efficient+backend+systems.+Always+eager+to+learn+and+explore+new+technologies.)](https://git.io/typing-svg)
+###[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=I+am+a+full-stack+developer+passionate+about+building+scalable+web+applications%2C+delivering+seamless+user+experiences%2C+and+creating+efficient+backend+systems.+Always+eager+to+learn+and+explore+new+technologies.)](https://git.io/typing-svg)
 <div align="center"> I love creating new things ⚡   Turning imagination into reality 🚀</div>
 👨‍💻 I am a FullStack developer with focus on web fundamentals. I work remotely to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 

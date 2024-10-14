@@ -1,4 +1,4 @@
-###<div align="center"><a href="#"><img src="https://github.com/DanielSemu/DanielSemu/blob/main/banner.png"/></a></div> 
+<div width="100%" align="center"><a href="#"><img src="https://github.com/DanielSemu/DanielSemu/blob/main/banner.png"/></a></div> 
 ### <div align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&multiline=true&width=345&height=40&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Daniel Semu+" alt="Typing SVG" /></a>
 </div> 
  <div align="center"> <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=735&height=60&lines=Innovative+Full-Stack+Developer+Crafting+Seamless+and+Scalable+Web+Solutions+for+Enhanced+User+Experiences" alt="Typing SVG" /></a></div>

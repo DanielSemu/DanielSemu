@@ -1,7 +1,7 @@
 <div width="100%" align="center"><a href="#"><img width="100%" src="https://github.com/DanielSemu/DanielSemu/blob/main/banner.png"/></a></div> 
 <div align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&multiline=true&width=345&height=40&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Daniel Semu+" alt="Typing SVG" /></a>
 </div> 
- <div align="center"> <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=735&height=60&lines=Innovative+Full-Stack+Developer+Crafting+Seamless+and+Scalable+Web+Solutions+for+Enhanced+User+Experiences" alt="Typing SVG" /></a></div>
+ <div width="100%" align="center"> <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=735&height=60&lines=Innovative+Full-Stack+Developer+Crafting+Seamless+and+Scalable+Web+Solutions+for+Enhanced+User+Experiences" alt="Typing SVG" /></a></div>
 <div align="center"> I’m driven by the challenge of creating innovative solutions ⚡ and turning visions into impactful realities 🚀.</div>
 👨‍💻 As a Full-Stack developer, I specialize in web development and work remotely to create top-quality products. In my spare time, I develop personal projects and share them with the community, aiming to learn, grow, and help others do the same. Explore my repositories—you might find something valuable!.
 

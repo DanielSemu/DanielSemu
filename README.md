@@ -87,6 +87,8 @@ These stats reflect my ongoing work, learning projects, and contributions across
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsemu&show_icons=true&theme=react)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielsemu&theme=react)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsemu&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsemu&layout=compact&theme=react)
+
 
 ---
 
